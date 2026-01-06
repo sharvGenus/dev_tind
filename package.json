@@ -1,0 +1,26 @@
+{
+  "name": "dev_tind",
+  "version": "1.0.0",
+  "description": "This is a project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharv2507/dev_tind.git"
+  },
+  "author": "Sharv Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharv2507/dev_tind/issues"
+  },
+  "homepage": "https://github.com/sharv2507/dev_tind#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
